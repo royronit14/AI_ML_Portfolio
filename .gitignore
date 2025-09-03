@@ -8,6 +8,8 @@ __pycache__/
 *.png
 # Distribution / packaging
 .Python
+C2_W1/
+C2_W2/
 build/
 develop-eggs/
 dist/
